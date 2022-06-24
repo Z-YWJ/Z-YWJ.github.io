@@ -1,0 +1,9 @@
+- title: Email
+  url: mailto://285967327@qq.com
+  icon: fas fa-envelope
+#- title: Twitter
+#  url: https://twitter.com/vszhub
+#  icon: fab fa-twitter
+- title: GitHub
+  url: https://github.com/Z-YWJ/z-ywj.github.io
+  icon: fab fa-github
